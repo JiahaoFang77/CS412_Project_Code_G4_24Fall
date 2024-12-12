@@ -1,6 +1,6 @@
 # Disaster Tweet Classification
 
-This repository contains code for classifying disaster-related tweets using various machine learning approaches including Logistic Regression, Random Forest, and BERT-based models.
+This repository is **optional** material for our final report, which contains code for classifying disaster-related tweets using various machine learning approaches including Logistic Regression, Random Forest, and BERT-based models.
 
 ## Dataset
 
