@@ -65,5 +65,5 @@ All code implementations are based on the project report and follow the methodol
 3. Train and evaluate models:
    ```
    python code/lg_rf.py      # For Logistic Regression and Random Forest
-   python bert_model.py # For BERT-based classification
+   python code/bert_model.py # For BERT-based classification
    ```
